@@ -1,0 +1,22 @@
+---
+title: "Resources and lecture downloads"
+---
+
+## Lecture materials
+
+| Unit | Lecture PDF | Pages |
+|---|---|---:|
+| Foundations and immunohematology | [Download Unit 1](assets/slides/unit-1-foundations.pdf) | 81 |
+| ABO, H and secretor systems | [Download Unit 2](assets/slides/unit-2-blood-groups.pdf) | 55 |
+| Other blood group systems | [Download Unit 3](assets/slides/unit-3-other-systems.pdf) | 38 |
+
+## Study pages
+
+- [Unit 1](units/01-foundations.qmd)
+- [Unit 2](units/02-blood-groups.qmd)
+- [Unit 3](units/03-other-systems.qmd)
+- [Clinical exercises](units/04-cases.qmd)
+
+## Suggested external reference material
+
+The current edition of professional blood banking texts, current local standard operating procedures, and authoritative blood-group terminology should be used to verify details before clinical application. Additional links may be added here by the lecturer.

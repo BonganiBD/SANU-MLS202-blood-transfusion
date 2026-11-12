@@ -1,0 +1,49 @@
+---
+title: "Unit 1: Foundations and Immunohematology"
+subtitle: "Genetic principles in blood banking"
+---
+
+## Learning outcomes
+
+From the supplied lecture (page 2), learners should be able to:
+
+- Explain the importance of blood group compatibility in transfusion safety.
+- Connect antigens, antibodies, agglutination and hemolysis to laboratory testing.
+- Distinguish the important features of IgM and IgG.
+- Apply inheritance concepts to ABO and Rh blood group expression.
+- Interpret introductory blood grouping and compatibility scenarios.
+
+## From donor to patient
+
+The lecture's workflow (page 4) connects donor selection, component collection, ABO/Rh typing, antibody screening, compatibility testing and issue/transfusion.
+
+## Immunohematology essentials
+
+Blood group antigens on red cells may be carbohydrate structures (such as ABO) or proteins (such as Rh). The immunological response to non-self red-cell antigens helps explain sensitization, antibody formation and the consequences of incompatible transfusion.
+
+| Feature | IgM | IgG |
+|---|---|---|
+| Typical structure | Pentamer | Monomer |
+| Typical testing pattern | Can directly agglutinate red cells | Often requires antiglobulin testing |
+| Placental transfer | Does not normally cross placenta | Crosses placenta |
+| Examples discussed | Many ABO antibodies | Many Rh antibodies |
+
+The lecture's illustrated comparison appears on pages 12–14.
+
+## Watch/read the lecture
+
+[Download Unit 1 PDF](../assets/slides/unit-1-foundations.pdf){.btn .btn-primary}
+
+<iframe class="pdf-embed" src="../assets/slides/unit-1-foundations.pdf" title="Unit 1 lecture slides"></iframe>
+
+## Check your understanding
+
+1. Why is compatibility testing a critical patient-safety step?
+2. How can red-cell sensitization occur without visible direct agglutination?
+3. Compare ABO and Rh in relation to antibody response.
+4. An individual has ABO genotype AO. What is the expected phenotype, and why?
+
+::: {.callout-tip}
+## Practice prompt
+Describe the blood-bank testing pathway from receiving a patient sample to issuing an appropriate red-cell component. Include relevant quality and identification checks in your explanation.
+:::

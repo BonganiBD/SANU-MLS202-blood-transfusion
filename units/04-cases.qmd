@@ -1,0 +1,33 @@
+---
+title: "Clinical cases and practice"
+---
+
+These are newly written **teaching exercises**, based on themes in Units 1–3, rather than copied questions from the lecture PDFs. They do not provide patient-specific medical guidance.
+
+## Case 1: Grouping discrepancy
+
+A patient's forward and reverse grouping results are inconsistent.
+
+**Tasks:** Identify the potential preanalytical, analytical and biological reasons to investigate; describe the laboratory checks that should take place before a group is assigned; state why issuing blood without resolving discrepancies can be hazardous.
+
+## Case 2: Antibody history
+
+A patient requiring red-cell support has a documented history of an anti-Jkᵃ antibody, but the current antibody screen is negative.
+
+**Tasks:** Explain why historical records matter; identify the transfusion safety concern; outline the appropriate escalation within local pretransfusion-testing SOPs.
+
+## Case 3: Pregnancy and anti-K
+
+A maternal antibody investigation identifies anti-K.
+
+**Tasks:** Discuss the importance of Kell antigens; compare the mechanisms of anti-K-associated fetal anemia with other HDFN mechanisms discussed in class; list issues requiring specialist coordination.
+
+## Case 4: ABO inheritance
+
+Two parents have genotypes AO and BO.
+
+**Tasks:** Draw a Punnett square; enumerate possible genotypes and phenotypes in offspring; explain why routine blood grouping is a phenotype test rather than direct genotyping.
+
+::: {.callout-warning}
+These are educational scenarios. Decisions for real clinical cases require validated laboratory results, local SOPs and authorized clinical oversight.
+:::

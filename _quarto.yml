@@ -1,0 +1,55 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - assets/slides/*.pdf
+
+website:
+  title: "MLS 202 | Blood Transfusion Techniques"
+  site-url: "https://BonganiBD.github.io/mls202-blood-transfusion/"
+  description: "Southern Africa Nazarene University — Medical Laboratory Sciences course resources"
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Home
+      - href: syllabus.qmd
+        text: Course guide
+      - href: resources.qmd
+        text: Resources
+    right:
+      - icon: github
+        href: https://github.com/BonganiBD/mls202-blood-transfusion
+        aria-label: Source code
+  sidebar:
+    style: docked
+    contents:
+      - section: "Course materials"
+        contents:
+          - text: "Unit 1 · Foundations and immunohematology"
+            href: units/01-foundations.qmd
+          - text: "Unit 2 · ABO, H and secretor systems"
+            href: units/02-blood-groups.qmd
+          - text: "Unit 3 · Other blood group systems"
+            href: units/03-other-systems.qmd
+      - section: "Practice and application"
+        contents:
+          - text: "Clinical cases and exercises"
+            href: units/04-cases.qmd
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: true
+    toc-location: right
+    number-sections: false
+    code-copy: true
+    smooth-scroll: true
+    page-navigation: true
+    link-external-newwindow: true
+    callout-appearance: simple
+execute:
+  freeze: auto

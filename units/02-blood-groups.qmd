@@ -1,0 +1,46 @@
+---
+title: "Unit 2: ABO, H and Secretor Blood Group Systems"
+---
+
+## Core concepts
+
+The supplied lecture introduces ABO codominance, genotype–phenotype relationships, blood group antigen patterns and the genetic roles of the H and secretor loci.
+
+## ABO inheritance
+
+A and B are codominant, while the common O allele is recessive. Examples from the unit:
+
+| Genotype | Expected ABO phenotype |
+|---|---|
+| AA or AO | A |
+| BB or BO | B |
+| AB | AB |
+| OO | O |
+
+## ABO phenotype and antibodies
+
+| ABO group | A/B antigens on RBCs | Expected naturally occurring plasma antibodies |
+|---|---|---|
+| A | A | Anti-B |
+| B | B | Anti-A |
+| AB | A and B | Neither anti-A nor anti-B |
+| O | Neither A nor B | Anti-A and anti-B |
+
+*This simplified table does not replace full pretransfusion compatibility testing.*
+
+## H and secretor loci
+
+The Unit 2 slides distinguish the **ABO locus (chromosome 9)** from the **H locus/FUT1 (chromosome 19)**. H antigen provides the precursor for A or B antigen expression on RBCs. The **FUT2 secretor locus** influences expression in secretions. The Bombay phenotype illustrates the importance of the H antigen pathway.
+
+## Lecture slides
+
+[Download Unit 2 PDF](../assets/slides/unit-2-blood-groups.pdf){.btn .btn-primary}
+
+<iframe class="pdf-embed" src="../assets/slides/unit-2-blood-groups.pdf" title="Unit 2 lecture slides"></iframe>
+
+## Exercises
+
+1. Predict possible offspring blood groups from parents with genotypes AO and BO.
+2. Why can a deficiency of H antigen disrupt normal ABO typing assumptions?
+3. Distinguish ABO, H and secretor loci in terms of the product and location of expression.
+4. Explain why forward and reverse grouping are interpreted together.

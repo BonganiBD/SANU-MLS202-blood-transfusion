@@ -1,0 +1,355 @@
+[
+  {
+    "objectID": "units/04-cases.html",
+    "href": "units/04-cases.html",
+    "title": "Clinical cases and practice",
+    "section": "",
+    "text": "These are newly written teaching exercises, based on themes in Units 1–3, rather than copied questions from the lecture PDFs. They do not provide patient-specific medical guidance.",
+    "crumbs": [
+      "Home",
+      "Practice and application",
+      "Clinical cases and exercises"
+    ]
+  },
+  {
+    "objectID": "units/04-cases.html#case-1-grouping-discrepancy",
+    "href": "units/04-cases.html#case-1-grouping-discrepancy",
+    "title": "Clinical cases and practice",
+    "section": "Case 1: Grouping discrepancy",
+    "text": "Case 1: Grouping discrepancy\nA patient’s forward and reverse grouping results are inconsistent.\nTasks: Identify the potential preanalytical, analytical and biological reasons to investigate; describe the laboratory checks that should take place before a group is assigned; state why issuing blood without resolving discrepancies can be hazardous.",
+    "crumbs": [
+      "Home",
+      "Practice and application",
+      "Clinical cases and exercises"
+    ]
+  },
+  {
+    "objectID": "units/04-cases.html#case-2-antibody-history",
+    "href": "units/04-cases.html#case-2-antibody-history",
+    "title": "Clinical cases and practice",
+    "section": "Case 2: Antibody history",
+    "text": "Case 2: Antibody history\nA patient requiring red-cell support has a documented history of an anti-Jkᵃ antibody, but the current antibody screen is negative.\nTasks: Explain why historical records matter; identify the transfusion safety concern; outline the appropriate escalation within local pretransfusion-testing SOPs.",
+    "crumbs": [
+      "Home",
+      "Practice and application",
+      "Clinical cases and exercises"
+    ]
+  },
+  {
+    "objectID": "units/04-cases.html#case-3-pregnancy-and-anti-k",
+    "href": "units/04-cases.html#case-3-pregnancy-and-anti-k",
+    "title": "Clinical cases and practice",
+    "section": "Case 3: Pregnancy and anti-K",
+    "text": "Case 3: Pregnancy and anti-K\nA maternal antibody investigation identifies anti-K.\nTasks: Discuss the importance of Kell antigens; compare the mechanisms of anti-K-associated fetal anemia with other HDFN mechanisms discussed in class; list issues requiring specialist coordination.",
+    "crumbs": [
+      "Home",
+      "Practice and application",
+      "Clinical cases and exercises"
+    ]
+  },
+  {
+    "objectID": "units/04-cases.html#case-4-abo-inheritance",
+    "href": "units/04-cases.html#case-4-abo-inheritance",
+    "title": "Clinical cases and practice",
+    "section": "Case 4: ABO inheritance",
+    "text": "Case 4: ABO inheritance\nTwo parents have genotypes AO and BO.\nTasks: Draw a Punnett square; enumerate possible genotypes and phenotypes in offspring; explain why routine blood grouping is a phenotype test rather than direct genotyping.\n\n\n\n\n\n\nThese are educational scenarios. Decisions for real clinical cases require validated laboratory results, local SOPs and authorized clinical oversight.",
+    "crumbs": [
+      "Home",
+      "Practice and application",
+      "Clinical cases and exercises"
+    ]
+  },
+  {
+    "objectID": "units/02-blood-groups.html",
+    "href": "units/02-blood-groups.html",
+    "title": "Unit 2: ABO, H and Secretor Blood Group Systems",
+    "section": "",
+    "text": "The supplied lecture introduces ABO codominance, genotype–phenotype relationships, blood group antigen patterns and the genetic roles of the H and secretor loci.",
+    "crumbs": [
+      "Home",
+      "Course materials",
+      "Unit 2 · ABO, H and secretor systems"
+    ]
+  },
+  {
+    "objectID": "units/02-blood-groups.html#core-concepts",
+    "href": "units/02-blood-groups.html#core-concepts",
+    "title": "Unit 2: ABO, H and Secretor Blood Group Systems",
+    "section": "",
+    "text": "The supplied lecture introduces ABO codominance, genotype–phenotype relationships, blood group antigen patterns and the genetic roles of the H and secretor loci.",
+    "crumbs": [
+      "Home",
+      "Course materials",
+      "Unit 2 · ABO, H and secretor systems"
+    ]
+  },
+  {
+    "objectID": "units/02-blood-groups.html#abo-inheritance",
+    "href": "units/02-blood-groups.html#abo-inheritance",
+    "title": "Unit 2: ABO, H and Secretor Blood Group Systems",
+    "section": "ABO inheritance",
+    "text": "ABO inheritance\nA and B are codominant, while the common O allele is recessive. Examples from the unit:\n\n\n\nGenotype\nExpected ABO phenotype\n\n\n\n\nAA or AO\nA\n\n\nBB or BO\nB\n\n\nAB\nAB\n\n\nOO\nO",
+    "crumbs": [
+      "Home",
+      "Course materials",
+      "Unit 2 · ABO, H and secretor systems"
+    ]
+  },
+  {
+    "objectID": "units/02-blood-groups.html#abo-phenotype-and-antibodies",
+    "href": "units/02-blood-groups.html#abo-phenotype-and-antibodies",
+    "title": "Unit 2: ABO, H and Secretor Blood Group Systems",
+    "section": "ABO phenotype and antibodies",
+    "text": "ABO phenotype and antibodies\n\n\n\n\n\n\n\n\nABO group\nA/B antigens on RBCs\nExpected naturally occurring plasma antibodies\n\n\n\n\nA\nA\nAnti-B\n\n\nB\nB\nAnti-A\n\n\nAB\nA and B\nNeither anti-A nor anti-B\n\n\nO\nNeither A nor B\nAnti-A and anti-B\n\n\n\nThis simplified table does not replace full pretransfusion compatibility testing.",
+    "crumbs": [
+      "Home",
+      "Course materials",
+      "Unit 2 · ABO, H and secretor systems"
+    ]
+  },
+  {
+    "objectID": "units/02-blood-groups.html#h-and-secretor-loci",
+    "href": "units/02-blood-groups.html#h-and-secretor-loci",
+    "title": "Unit 2: ABO, H and Secretor Blood Group Systems",
+    "section": "H and secretor loci",
+    "text": "H and secretor loci\nThe Unit 2 slides distinguish the ABO locus (chromosome 9) from the H locus/FUT1 (chromosome 19). H antigen provides the precursor for A or B antigen expression on RBCs. The FUT2 secretor locus influences expression in secretions. The Bombay phenotype illustrates the importance of the H antigen pathway.",
+    "crumbs": [
+      "Home",
+      "Course materials",
+      "Unit 2 · ABO, H and secretor systems"
+    ]
+  },
+  {
+    "objectID": "units/02-blood-groups.html#lecture-slides",
+    "href": "units/02-blood-groups.html#lecture-slides",
+    "title": "Unit 2: ABO, H and Secretor Blood Group Systems",
+    "section": "Lecture slides",
+    "text": "Lecture slides\nDownload Unit 2 PDF",
+    "crumbs": [
+      "Home",
+      "Course materials",
+      "Unit 2 · ABO, H and secretor systems"
+    ]
+  },
+  {
+    "objectID": "units/02-blood-groups.html#exercises",
+    "href": "units/02-blood-groups.html#exercises",
+    "title": "Unit 2: ABO, H and Secretor Blood Group Systems",
+    "section": "Exercises",
+    "text": "Exercises\n\nPredict possible offspring blood groups from parents with genotypes AO and BO.\nWhy can a deficiency of H antigen disrupt normal ABO typing assumptions?\nDistinguish ABO, H and secretor loci in terms of the product and location of expression.\nExplain why forward and reverse grouping are interpreted together.",
+    "crumbs": [
+      "Home",
+      "Course materials",
+      "Unit 2 · ABO, H and secretor systems"
+    ]
+  },
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "Course guide",
+    "section": "",
+    "text": "MLS 202: Blood Transfusion Techniques is presented within Medical Laboratory Sciences at Southern Africa Nazarene University. These learning materials are organized around the three units supplied for this website.\n\n\n\n\n\n\n\n\nUnit\nTopics\nLearning activities\n\n\n\n\n1\nFoundations, immunohematology and genetic principles\nAntibody comparison, compatibility scenarios\n\n\n2\nABO, H and secretor blood group systems\nGenotype–phenotype prediction, grouping interpretation\n\n\n3\nOther clinically significant blood group systems\nAntibody identification and clinical significance"
+  },
+  {
+    "objectID": "syllabus.html#course-overview",
+    "href": "syllabus.html#course-overview",
+    "title": "Course guide",
+    "section": "",
+    "text": "MLS 202: Blood Transfusion Techniques is presented within Medical Laboratory Sciences at Southern Africa Nazarene University. These learning materials are organized around the three units supplied for this website.\n\n\n\n\n\n\n\n\nUnit\nTopics\nLearning activities\n\n\n\n\n1\nFoundations, immunohematology and genetic principles\nAntibody comparison, compatibility scenarios\n\n\n2\nABO, H and secretor blood group systems\nGenotype–phenotype prediction, grouping interpretation\n\n\n3\nOther clinically significant blood group systems\nAntibody identification and clinical significance"
+  },
+  {
+    "objectID": "syllabus.html#learning-approach",
+    "href": "syllabus.html#learning-approach",
+    "title": "Course guide",
+    "section": "Learning approach",
+    "text": "Learning approach\n\nBefore class: review the reading notes and learning outcomes.\nDuring class: discuss worked transfusion cases and laboratory decision points.\nAfter class: answer the practice questions and refer to lecture PDFs."
+  },
+  {
+    "objectID": "syllabus.html#assessment",
+    "href": "syllabus.html#assessment",
+    "title": "Course guide",
+    "section": "Assessment",
+    "text": "Assessment\nYour lecturer will supply authoritative assessment weights, dates and submission procedures separately. No unverified grading timetable is published here."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "MLS 202: Blood Transfusion Techniques",
+    "section": "",
+    "text": "Medical Laboratory Sciences · Southern Africa Nazarene University\nStudy immunohematology, blood group genetics, and clinically significant red-cell antigens through lecture material, worked examples, and clinical laboratory practice questions."
+  },
+  {
+    "objectID": "index.html#start-learning",
+    "href": "index.html#start-learning",
+    "title": "MLS 202: Blood Transfusion Techniques",
+    "section": "Start learning",
+    "text": "Start learning\n\n\nUnit 1\nFoundations and Immunohematology\nBlood banking, immune principles, IgM and IgG, antigen–antibody reactions, compatibility and inheritance.\nOpen Unit 1\n\n\nUnit 2\nABO, H and Secretor Systems\nABO inheritance, blood grouping, the H substance, Bombay phenotype and secretor genetics.\nOpen Unit 2\n\n\nUnit 3\nOther Blood Group Systems\nKell, Duffy, Kidd, MNS, Lewis and additional blood group systems with transfusion relevance.\nOpen Unit 3"
+  },
+  {
+    "objectID": "index.html#how-to-use-this-site",
+    "href": "index.html#how-to-use-this-site",
+    "title": "MLS 202: Blood Transfusion Techniques",
+    "section": "How to use this site",
+    "text": "How to use this site\n\nRead the unit’s learning guide before reviewing its lecture slides.\nUse the embedded PDF viewer or download lecture slides for offline study.\nComplete the practice exercises and clinical cases.\nRefer to the course guide and resources.\n\n\n\n\n\n\n\nImportantEducational use\n\n\n\nContent is intended for students, not as a standalone clinical transfusion protocol. Follow current local SOPs, compatibility-testing requirements and clinical governance in all patient-facing work."
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources and lecture downloads",
+    "section": "",
+    "text": "Unit\nLecture PDF\nPages\n\n\n\n\nFoundations and immunohematology\nDownload Unit 1\n81\n\n\nABO, H and secretor systems\nDownload Unit 2\n55\n\n\nOther blood group systems\nDownload Unit 3\n38"
+  },
+  {
+    "objectID": "resources.html#lecture-materials",
+    "href": "resources.html#lecture-materials",
+    "title": "Resources and lecture downloads",
+    "section": "",
+    "text": "Unit\nLecture PDF\nPages\n\n\n\n\nFoundations and immunohematology\nDownload Unit 1\n81\n\n\nABO, H and secretor systems\nDownload Unit 2\n55\n\n\nOther blood group systems\nDownload Unit 3\n38"
+  },
+  {
+    "objectID": "resources.html#study-pages",
+    "href": "resources.html#study-pages",
+    "title": "Resources and lecture downloads",
+    "section": "Study pages",
+    "text": "Study pages\n\nUnit 1\nUnit 2\nUnit 3\nClinical exercises"
+  },
+  {
+    "objectID": "resources.html#suggested-external-reference-material",
+    "href": "resources.html#suggested-external-reference-material",
+    "title": "Resources and lecture downloads",
+    "section": "Suggested external reference material",
+    "text": "Suggested external reference material\nThe current edition of professional blood banking texts, current local standard operating procedures, and authoritative blood-group terminology should be used to verify details before clinical application. Additional links may be added here by the lecturer."
+  },
+  {
+    "objectID": "units/01-foundations.html",
+    "href": "units/01-foundations.html",
+    "title": "Unit 1: Foundations and Immunohematology",
+    "section": "",
+    "text": "From the supplied lecture (page 2), learners should be able to:\n\nExplain the importance of blood group compatibility in transfusion safety.\nConnect antigens, antibodies, agglutination and hemolysis to laboratory testing.\nDistinguish the important features of IgM and IgG.\nApply inheritance concepts to ABO and Rh blood group expression.\nInterpret introductory blood grouping and compatibility scenarios.",
+    "crumbs": [
+      "Home",
+      "Course materials",
+      "Unit 1 · Foundations and immunohematology"
+    ]
+  },
+  {
+    "objectID": "units/01-foundations.html#learning-outcomes",
+    "href": "units/01-foundations.html#learning-outcomes",
+    "title": "Unit 1: Foundations and Immunohematology",
+    "section": "",
+    "text": "From the supplied lecture (page 2), learners should be able to:\n\nExplain the importance of blood group compatibility in transfusion safety.\nConnect antigens, antibodies, agglutination and hemolysis to laboratory testing.\nDistinguish the important features of IgM and IgG.\nApply inheritance concepts to ABO and Rh blood group expression.\nInterpret introductory blood grouping and compatibility scenarios.",
+    "crumbs": [
+      "Home",
+      "Course materials",
+      "Unit 1 · Foundations and immunohematology"
+    ]
+  },
+  {
+    "objectID": "units/01-foundations.html#from-donor-to-patient",
+    "href": "units/01-foundations.html#from-donor-to-patient",
+    "title": "Unit 1: Foundations and Immunohematology",
+    "section": "From donor to patient",
+    "text": "From donor to patient\nThe lecture’s workflow (page 4) connects donor selection, component collection, ABO/Rh typing, antibody screening, compatibility testing and issue/transfusion.",
+    "crumbs": [
+      "Home",
+      "Course materials",
+      "Unit 1 · Foundations and immunohematology"
+    ]
+  },
+  {
+    "objectID": "units/01-foundations.html#immunohematology-essentials",
+    "href": "units/01-foundations.html#immunohematology-essentials",
+    "title": "Unit 1: Foundations and Immunohematology",
+    "section": "Immunohematology essentials",
+    "text": "Immunohematology essentials\nBlood group antigens on red cells may be carbohydrate structures (such as ABO) or proteins (such as Rh). The immunological response to non-self red-cell antigens helps explain sensitization, antibody formation and the consequences of incompatible transfusion.\n\n\n\n\n\n\n\n\nFeature\nIgM\nIgG\n\n\n\n\nTypical structure\nPentamer\nMonomer\n\n\nTypical testing pattern\nCan directly agglutinate red cells\nOften requires antiglobulin testing\n\n\nPlacental transfer\nDoes not normally cross placenta\nCrosses placenta\n\n\nExamples discussed\nMany ABO antibodies\nMany Rh antibodies\n\n\n\nThe lecture’s illustrated comparison appears on pages 12–14.",
+    "crumbs": [
+      "Home",
+      "Course materials",
+      "Unit 1 · Foundations and immunohematology"
+    ]
+  },
+  {
+    "objectID": "units/01-foundations.html#watchread-the-lecture",
+    "href": "units/01-foundations.html#watchread-the-lecture",
+    "title": "Unit 1: Foundations and Immunohematology",
+    "section": "Watch/read the lecture",
+    "text": "Watch/read the lecture\nDownload Unit 1 PDF",
+    "crumbs": [
+      "Home",
+      "Course materials",
+      "Unit 1 · Foundations and immunohematology"
+    ]
+  },
+  {
+    "objectID": "units/01-foundations.html#check-your-understanding",
+    "href": "units/01-foundations.html#check-your-understanding",
+    "title": "Unit 1: Foundations and Immunohematology",
+    "section": "Check your understanding",
+    "text": "Check your understanding\n\nWhy is compatibility testing a critical patient-safety step?\nHow can red-cell sensitization occur without visible direct agglutination?\nCompare ABO and Rh in relation to antibody response.\nAn individual has ABO genotype AO. What is the expected phenotype, and why?\n\n\n\n\n\n\n\nTipPractice prompt\n\n\n\nDescribe the blood-bank testing pathway from receiving a patient sample to issuing an appropriate red-cell component. Include relevant quality and identification checks in your explanation.",
+    "crumbs": [
+      "Home",
+      "Course materials",
+      "Unit 1 · Foundations and immunohematology"
+    ]
+  },
+  {
+    "objectID": "units/03-other-systems.html",
+    "href": "units/03-other-systems.html",
+    "title": "Unit 3: Other Clinically Significant Blood Group Systems",
+    "section": "",
+    "text": "The supplied lecture focuses on blood group systems beyond ABO and Rh and connects their genetics and phenotypes with laboratory investigation and transfusion outcomes.\n\n\n\n\n\n\n\n\nSystem\nMajor antigens or markers\nTopics emphasized in slides\n\n\n\n\nKell\nK, k and other Kell antigens\nAnti-K, transfusion reactions, HDFN; see pages 2–4\n\n\nDuffy\nFyᵃ, Fyᵇ\nPhenotypes, transfusion significance, malaria biology; pages 5–8\n\n\nKidd\nJkᵃ, Jkᵇ, Jk3\nUrea transporter, delayed transfusion reactions; pages 9–11\n\n\nMNS\nM, N, S, s\nGlycophorins and genetic inheritance; pages 12–13\n\n\nLewis\nLeᵃ, Leᵇ\nInteractions with ABO and secretor genetics; pages 14 onward",
+    "crumbs": [
+      "Home",
+      "Course materials",
+      "Unit 3 · Other blood group systems"
+    ]
+  },
+  {
+    "objectID": "units/03-other-systems.html#overview",
+    "href": "units/03-other-systems.html#overview",
+    "title": "Unit 3: Other Clinically Significant Blood Group Systems",
+    "section": "",
+    "text": "The supplied lecture focuses on blood group systems beyond ABO and Rh and connects their genetics and phenotypes with laboratory investigation and transfusion outcomes.\n\n\n\n\n\n\n\n\nSystem\nMajor antigens or markers\nTopics emphasized in slides\n\n\n\n\nKell\nK, k and other Kell antigens\nAnti-K, transfusion reactions, HDFN; see pages 2–4\n\n\nDuffy\nFyᵃ, Fyᵇ\nPhenotypes, transfusion significance, malaria biology; pages 5–8\n\n\nKidd\nJkᵃ, Jkᵇ, Jk3\nUrea transporter, delayed transfusion reactions; pages 9–11\n\n\nMNS\nM, N, S, s\nGlycophorins and genetic inheritance; pages 12–13\n\n\nLewis\nLeᵃ, Leᵇ\nInteractions with ABO and secretor genetics; pages 14 onward",
+    "crumbs": [
+      "Home",
+      "Course materials",
+      "Unit 3 · Other blood group systems"
+    ]
+  },
+  {
+    "objectID": "units/03-other-systems.html#clinical-interpretation",
+    "href": "units/03-other-systems.html#clinical-interpretation",
+    "title": "Unit 3: Other Clinically Significant Blood Group Systems",
+    "section": "Clinical interpretation",
+    "text": "Clinical interpretation\nClinical significance varies across antibodies. Consider antibody class, antigen prevalence, history of exposure and implications for compatibility and hemolytic disease of the fetus and newborn. In particular, the supplied slides emphasize anti-K as important in both hemolytic transfusion reactions and HDFN, and Kidd antibodies in delayed transfusion reactions.",
+    "crumbs": [
+      "Home",
+      "Course materials",
+      "Unit 3 · Other blood group systems"
+    ]
+  },
+  {
+    "objectID": "units/03-other-systems.html#lecture-slides",
+    "href": "units/03-other-systems.html#lecture-slides",
+    "title": "Unit 3: Other Clinically Significant Blood Group Systems",
+    "section": "Lecture slides",
+    "text": "Lecture slides\nDownload Unit 3 PDF",
+    "crumbs": [
+      "Home",
+      "Course materials",
+      "Unit 3 · Other blood group systems"
+    ]
+  },
+  {
+    "objectID": "units/03-other-systems.html#exercises",
+    "href": "units/03-other-systems.html#exercises",
+    "title": "Unit 3: Other Clinically Significant Blood Group Systems",
+    "section": "Exercises",
+    "text": "Exercises\n\nCompare Kell, Duffy and Kidd in terms of genetic basis and clinical significance.\nExplain why a historically identified Kidd antibody remains relevant even if not currently detectable.\nWhy does anti-K require special consideration in pregnancy?\nExplain how Lewis antigen expression is connected to secretor genetics.",
+    "crumbs": [
+      "Home",
+      "Course materials",
+      "Unit 3 · Other blood group systems"
+    ]
+  }
+]

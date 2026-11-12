@@ -1,0 +1,11 @@
+:root { --bs-primary: #113657; --bs-link-color: #0879a3; }
+.navbar { background: #103353 !important; }
+h1,h2,h3 { color: #123b5c; }
+.callout-note { border-left-color: #1c9ebd; }
+.hero { background: linear-gradient(120deg,#103353,#14648a); color:white; padding: 2.2rem; border-radius: 1rem; margin-bottom: 1.5rem; }
+.hero h1, .hero p { color:white; }
+.unit-grid {display:grid; grid-template-columns: repeat(auto-fit,minmax(220px,1fr)); gap:1rem; margin:1rem 0 2rem;}
+.unit-card {padding:1.2rem; border:1px solid #d9e2e8; border-radius:.7rem; box-shadow:0 2px 8px #102f4a12;}
+.unit-card h3 {margin-top:0;}
+.pdf-embed { width: 100%; height: 620px; border: 1px solid #d0d8de; border-radius:.5rem; }
+@media(max-width:700px){.pdf-embed{height:420px;}}

@@ -1,0 +1,52 @@
+---
+title: "MLS 202: Blood Transfusion Techniques"
+subtitle: "Online course materials and practical learning activities"
+---
+
+::: {.hero}
+# Welcome to MLS 202
+**Medical Laboratory Sciences · Southern Africa Nazarene University**
+
+Study immunohematology, blood group genetics, and clinically significant red-cell antigens through lecture material, worked examples, and clinical laboratory practice questions.
+:::
+
+## Start learning
+
+::: {.unit-grid}
+::: {.unit-card}
+### Unit 1
+**Foundations and Immunohematology**
+
+Blood banking, immune principles, IgM and IgG, antigen–antibody reactions, compatibility and inheritance.
+
+[Open Unit 1](units/01-foundations.qmd)
+:::
+::: {.unit-card}
+### Unit 2
+**ABO, H and Secretor Systems**
+
+ABO inheritance, blood grouping, the H substance, Bombay phenotype and secretor genetics.
+
+[Open Unit 2](units/02-blood-groups.qmd)
+:::
+::: {.unit-card}
+### Unit 3
+**Other Blood Group Systems**
+
+Kell, Duffy, Kidd, MNS, Lewis and additional blood group systems with transfusion relevance.
+
+[Open Unit 3](units/03-other-systems.qmd)
+:::
+:::
+
+## How to use this site
+
+1. Read the unit's **learning guide** before reviewing its lecture slides.
+2. Use the embedded PDF viewer or download lecture slides for offline study.
+3. Complete the **practice exercises** and clinical cases.
+4. Refer to the [course guide](syllabus.qmd) and [resources](resources.qmd).
+
+::: {.callout-important}
+## Educational use
+Content is intended for students, not as a standalone clinical transfusion protocol. Follow current local SOPs, compatibility-testing requirements and clinical governance in all patient-facing work.
+:::

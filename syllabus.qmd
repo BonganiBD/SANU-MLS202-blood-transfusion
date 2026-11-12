@@ -1,0 +1,23 @@
+---
+title: "Course guide"
+---
+
+## Course overview
+
+**MLS 202: Blood Transfusion Techniques** is presented within Medical Laboratory Sciences at Southern Africa Nazarene University. These learning materials are organized around the three units supplied for this website.
+
+| Unit | Topics | Learning activities |
+|---|---|---|
+| 1 | Foundations, immunohematology and genetic principles | Antibody comparison, compatibility scenarios |
+| 2 | ABO, H and secretor blood group systems | Genotype–phenotype prediction, grouping interpretation |
+| 3 | Other clinically significant blood group systems | Antibody identification and clinical significance |
+
+## Learning approach
+
+- **Before class:** review the reading notes and learning outcomes.
+- **During class:** discuss worked transfusion cases and laboratory decision points.
+- **After class:** answer the practice questions and refer to lecture PDFs.
+
+## Assessment
+
+Your lecturer will supply authoritative assessment weights, dates and submission procedures separately. No unverified grading timetable is published here.

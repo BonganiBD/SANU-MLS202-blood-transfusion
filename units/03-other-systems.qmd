@@ -1,0 +1,32 @@
+---
+title: "Unit 3: Other Clinically Significant Blood Group Systems"
+---
+
+## Overview
+
+The supplied lecture focuses on blood group systems beyond ABO and Rh and connects their genetics and phenotypes with laboratory investigation and transfusion outcomes.
+
+| System | Major antigens or markers | Topics emphasized in slides |
+|---|---|---|
+| Kell | K, k and other Kell antigens | Anti-K, transfusion reactions, HDFN; see pages 2–4 |
+| Duffy | Fyᵃ, Fyᵇ | Phenotypes, transfusion significance, malaria biology; pages 5–8 |
+| Kidd | Jkᵃ, Jkᵇ, Jk3 | Urea transporter, delayed transfusion reactions; pages 9–11 |
+| MNS | M, N, S, s | Glycophorins and genetic inheritance; pages 12–13 |
+| Lewis | Leᵃ, Leᵇ | Interactions with ABO and secretor genetics; pages 14 onward |
+
+## Clinical interpretation
+
+Clinical significance varies across antibodies. Consider antibody class, antigen prevalence, history of exposure and implications for compatibility and hemolytic disease of the fetus and newborn. In particular, the supplied slides emphasize **anti-K** as important in both hemolytic transfusion reactions and HDFN, and **Kidd antibodies** in delayed transfusion reactions.
+
+## Lecture slides
+
+[Download Unit 3 PDF](../assets/slides/unit-3-other-systems.pdf){.btn .btn-primary}
+
+<iframe class="pdf-embed" src="../assets/slides/unit-3-other-systems.pdf" title="Unit 3 lecture slides"></iframe>
+
+## Exercises
+
+1. Compare Kell, Duffy and Kidd in terms of genetic basis and clinical significance.
+2. Explain why a historically identified Kidd antibody remains relevant even if not currently detectable.
+3. Why does anti-K require special consideration in pregnancy?
+4. Explain how Lewis antigen expression is connected to secretor genetics.
